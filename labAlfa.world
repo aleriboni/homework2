@@ -1870,7 +1870,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1894,7 +1894,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1970,7 +1970,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1994,7 +1994,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2070,7 +2070,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2094,7 +2094,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2170,7 +2170,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2194,7 +2194,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2270,7 +2270,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2294,7 +2294,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2370,7 +2370,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2394,7 +2394,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2470,7 +2470,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2494,7 +2494,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2570,7 +2570,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2594,7 +2594,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2670,7 +2670,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2694,7 +2694,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2770,7 +2770,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2794,7 +2794,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2870,7 +2870,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2894,7 +2894,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2970,7 +2970,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2994,7 +2994,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3070,7 +3070,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3094,7 +3094,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3170,7 +3170,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3194,7 +3194,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3270,7 +3270,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3294,7 +3294,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3370,7 +3370,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3394,7 +3394,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3470,7 +3470,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3494,7 +3494,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3570,7 +3570,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3594,7 +3594,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3670,7 +3670,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3694,7 +3694,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3770,7 +3770,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3794,7 +3794,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3870,7 +3870,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3894,7 +3894,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3970,7 +3970,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3994,7 +3994,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4070,7 +4070,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4094,7 +4094,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4174,7 +4174,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4201,7 +4201,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4278,7 +4278,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4305,7 +4305,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4382,7 +4382,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4409,7 +4409,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4486,7 +4486,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4513,7 +4513,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4590,7 +4590,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4617,7 +4617,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4694,7 +4694,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4721,7 +4721,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4798,7 +4798,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4825,7 +4825,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4902,7 +4902,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4929,7 +4929,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/table_1.dae</uri>
+              <uri>labAlfa/table_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5002,7 +5002,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5026,7 +5026,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5102,7 +5102,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5126,7 +5126,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5202,7 +5202,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5226,7 +5226,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5302,7 +5302,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5326,7 +5326,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5402,7 +5402,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5426,7 +5426,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5502,7 +5502,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5526,7 +5526,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5602,7 +5602,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5626,7 +5626,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5702,7 +5702,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5726,7 +5726,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5802,7 +5802,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5826,7 +5826,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5902,7 +5902,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5926,7 +5926,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6002,7 +6002,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6026,7 +6026,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6102,7 +6102,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6126,7 +6126,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -8258,7 +8258,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -8282,7 +8282,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -8358,7 +8358,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -8382,7 +8382,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9486,7 +9486,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9510,7 +9510,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9586,7 +9586,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9610,7 +9610,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9943,7 +9943,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9967,7 +9967,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/chair.dae</uri>
+              <uri>labAlfa/chair.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10144,7 +10144,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10168,7 +10168,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10244,7 +10244,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10268,7 +10268,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10344,7 +10344,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10368,7 +10368,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10444,7 +10444,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10468,7 +10468,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10544,7 +10544,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10568,7 +10568,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10644,7 +10644,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10668,7 +10668,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10744,7 +10744,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10768,7 +10768,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10844,7 +10844,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10868,7 +10868,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10944,7 +10944,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -10968,7 +10968,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11044,7 +11044,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11068,7 +11068,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11144,7 +11144,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11168,7 +11168,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11244,7 +11244,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11268,7 +11268,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11344,7 +11344,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11368,7 +11368,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11444,7 +11444,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11468,7 +11468,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11544,7 +11544,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11568,7 +11568,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11644,7 +11644,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11668,7 +11668,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11744,7 +11744,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11768,7 +11768,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11844,7 +11844,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11868,7 +11868,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11944,7 +11944,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -11968,7 +11968,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12044,7 +12044,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12068,7 +12068,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12144,7 +12144,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12168,7 +12168,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12244,7 +12244,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12268,7 +12268,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12344,7 +12344,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12368,7 +12368,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12444,7 +12444,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12468,7 +12468,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12544,7 +12544,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12568,7 +12568,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12644,7 +12644,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12668,7 +12668,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12744,7 +12744,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12768,7 +12768,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12844,7 +12844,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12868,7 +12868,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12944,7 +12944,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -12968,7 +12968,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -13044,7 +13044,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -13068,7 +13068,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -13144,7 +13144,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -13168,7 +13168,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -13244,7 +13244,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -13268,7 +13268,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -13344,7 +13344,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -13368,7 +13368,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -13444,7 +13444,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -13468,7 +13468,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -13544,7 +13544,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
@@ -13568,7 +13568,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/linux-dave96/catkin_ws/src/homework2/labAlfa/monitorLCD.dae</uri>
+              <uri>labAlfa/monitorLCD.dae</uri>
               <scale>0.5 0.5 0.5</scale>
             </mesh>
           </geometry>
