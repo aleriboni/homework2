@@ -11,9 +11,9 @@ The world created refers to the Alpha laboratory of IT department of the Univers
 
 The word and the components inside it were made by using Gazebo software while the generation and the storage of the map were made by usig Rviz software. The homework was realized allowing all the project's authors to give their contribute. In a more specifically way the homework has been realized in this way:
 
-Alessandro Riboni : The world and some components.
-Davide Molinari : The world and some components.
-Marco Zenere : The world and this readme document.
+* Alessandro Riboni : The world and some components inside it and the video 
+* Davide Molinari   : The world and some components inside it
+* Marco Zenere      : The world, the map and this readme document
 
 ## How to run
 
