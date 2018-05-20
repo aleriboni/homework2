@@ -1,29 +1,33 @@
-# cyber_lab_gazebo
+# homework2
 
-Università di Verona
+University of Verona - IT department - Computer Science
 
-[Corso di Robotica - parte di laboratorio](http://profs.scienze.univr.it/~bloisi/corsi/robotica.html)<br>
-AA 2017/2018<br>
-Docente: [Domenico Daniele Bloisi](http://profs.scienze.univr.it/~bloisi/)
+## Description
 
-## Istruzioni
+This homework allows you to autonomously navigate the Turtlebot3 robot within a map created by us authors. The map created refers to the Alpha laboratory of IT department of the University of Verona.
 
-1. Eseguire le istruzioni presenti nella [seconda esercitazione](http://profs.scienze.univr.it/~bloisi/corsi/robotica.html#ese2) del 19/10/2017
 
-2. Clonare questo repository<br>
-```git clone https://github.com/dbloisi/cyber_lab_gazebo.git``` 
+## Realization
 
-3. spostarsi nella cartella 'cyber_lab_gazebo' e avviare lo script presente nel file "setup.sh"<br>
-```./setup.sh```
+The word and the components were made by using Gazebo and the homework was realized allowing all the project's authors to give their contribute. In a more specifically way the homework has been realized in this way:
 
-4. Seguire le istruzioni riportate nel tutorial [turtlebot3 gazebo](http://turtlebot3.robotis.com/en/latest/simulation.html#gazebo-3d) per lanciare il nodo ROS turtlebot3_simulation e poter avviare la guida autonoma del turtlebot nel modello del laboratorio.
+Alessandro Riboni : The world and some components;
+Davide Molinari : The world and some components;
+Marco Zenere : The world and this readme document.
 
-## Autori
-Enrico Marchesini<br>
-Davide Corsi<br>
-Fabio Falezza
+## How to run
+
+Move to "homework2" directory and use the file setup.sh to run the homework.
+
+## Link video
+
+
+## Author
+Alessandro Riboni<br>
+Davide Molinari<br>
+Marco Zenere<br>
 
 ## Disclaimer
-cyber_lab_gazebo is provided without any warranty about its usability. It is for educational purposes and should be regarded as such.
+homework2 is provided without any warranty about its usability. It is for educational purposes and should be regarded as such.
 
 
