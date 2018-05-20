@@ -24,10 +24,10 @@ Move to "homework2" directory and use the file setup.sh to run the homework.
 The videos shows the data through Rviz software that the robot sends in a topic when it is sent to a point on the map via "2D Nav Goal" command. 
 
 * First video:
-https://www.dropbox.com/s/v25e0cfqsai50yj/prima navigazione.mp4?dl=0
+https://www.dropbox.com/s/v25e0cfqsai50yj/prima\navigazione.mp4?dl=0
 
 * Second video:
-https://www.dropbox.com/s/f74qqhbnza1pdur/seconda navigazione.mp4?dl=0
+https://www.dropbox.com/s/f74qqhbnza1pdur/seconda\navigazione.mp4?dl=0
 
 
 
